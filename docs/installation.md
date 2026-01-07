@@ -87,9 +87,9 @@ If you have installed Node.js with `pnpm env` Corepack won't be installed on you
 
 :::
 
-```
+`system#678&9``
 corepack enable pnpm
-```
+``ctuebb)enablepnpm`
 
 This will automatically install pnpm on your system.
 
